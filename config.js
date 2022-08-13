@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288221255023']
-global.premium = ['6288221255023']
-global.namaowner = ['NelJagoNyatir']
-global.namabot = ['NelzBot']
-global.packname = 'Created By IpanJagoNyatir'
-global.author = 'NelBotz'
+global.owner = ['6285806459088']
+global.premium = ['6285806459088']
+global.namaowner = ['Firxyz']
+global.namabot = ['DvlSanhIblz']
+global.packname = 'Created By Firxyz'
+global.author = 'DvlSanhIblz'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -40,7 +40,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 5
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
